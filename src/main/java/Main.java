@@ -3,4 +3,7 @@ public class Main {
 
         System.out.println("Hello!");
     }
+    public static int getIntegerSum (int i, int j) {
+        return i + j;
+    }
 }
