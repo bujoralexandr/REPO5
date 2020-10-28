@@ -6,6 +6,7 @@ public class Main {
     public static int getIntegerSum (int i, int j) {
         return i + j;
     }
+ Branch2
     public void writeText() {
         int localVariable1 = 1;
         int localVariable2 = 2;
@@ -18,5 +19,9 @@ public class Main {
             return string2 + string1;
         }
         return string1 + string2;
+
+    public static int getIntegerSum (int i, int j) {
+        return i + j;
+ master
     }
 }
