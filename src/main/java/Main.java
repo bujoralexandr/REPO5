@@ -6,6 +6,13 @@ public class Main {
     public static int getIntegerSum (int i, int j) {
         return i + j;
     }
+ Branch1
+    public static int multiplyInteger (int x, int y) {
+        return x * y;
+    }
+    private static int getSquare(int x){
+        return x * x;
+
  Branch2
     public void writeText() {
         int localVariable1 = 1;
@@ -22,6 +29,7 @@ public class Main {
 
     public static int getIntegerSum (int i, int j) {
         return i + j;
+ master
  master
     }
 }
