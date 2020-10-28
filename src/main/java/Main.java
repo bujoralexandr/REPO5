@@ -5,4 +5,5 @@ public class Main {
     }
     public static int multiplyInteger (int x, int y) {
         return x * y;
+    }
 }
